@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Windows10LockScreenImages:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Windows10LockScreenImages_jar</output-path>
+    <root id="archive" name="Windows10LockScreenImages.jar">
+      <element id="module-output" name="Windows10LockScreenImages" />
+    </root>
+  </artifact>
+</component>
